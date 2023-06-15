@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4467205430a58254e80b7fb0705ce02d, type: 3}
+  m_Name: Island_01
+  m_EditorClassIdentifier: 
+  IslandPrefab: {fileID: 6778083331172051903, guid: ff0b6c4a75a98244abb779aa4db5368b,
+    type: 3}
+  IslandPreview: {fileID: -1527636220, guid: 8f6c80a482ca3c140961da08d11231d2, type: 3}
+  IslandName: Simple Path
+  IslandShortDesc: 2 normal turrets
+  IslandLongDesc: test3
+  Cost: 10

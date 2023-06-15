@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4467205430a58254e80b7fb0705ce02d, type: 3}
+  m_Name: Island_06
+  m_EditorClassIdentifier: 
+  IslandPrefab: {fileID: 2194214039267225508, guid: 4f0d6408bc343814ea920a77128dccae,
+    type: 3}
+  IslandPreview: {fileID: -399936757, guid: e6e1a6b523b207343a50489a9d6c881e, type: 3}
+  IslandName: Path with Curve R
+  IslandShortDesc: '2 fast turret
+
+    1 heavy turret'
+  IslandLongDesc: 'test2 '
+  Cost: 40

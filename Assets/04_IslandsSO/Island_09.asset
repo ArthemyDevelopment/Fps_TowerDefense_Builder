@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4467205430a58254e80b7fb0705ce02d, type: 3}
+  m_Name: Island_09
+  m_EditorClassIdentifier: 
+  IslandPrefab: {fileID: 6804209462279041644, guid: 9e42fcc6d8e8b4b459afaeb0658c29b6,
+    type: 3}
+  IslandPreview: {fileID: -844210391, guid: d31adfee2a4096341829b20483cf8618, type: 3}
+  IslandName: Conjoined Path
+  IslandShortDesc: '4 fast turret
+
+    1 slow turret
+
+'
+  IslandLongDesc: 'test2 '
+  Cost: 100

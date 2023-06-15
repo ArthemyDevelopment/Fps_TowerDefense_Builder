@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4467205430a58254e80b7fb0705ce02d, type: 3}
+  m_Name: Island_08
+  m_EditorClassIdentifier: 
+  IslandPrefab: {fileID: 9115802866629172245, guid: b43f1557372fc844897983e0fe7afb41,
+    type: 3}
+  IslandPreview: {fileID: -1008036520, guid: 80ebd186f083d8441b87d8b17284290a, type: 3}
+  IslandName: X Cross
+  IslandShortDesc: '3 fast turret
+
+    1 heavy turret
+
+    1 slow turret'
+  IslandLongDesc: 'test2 '
+  Cost: 100
